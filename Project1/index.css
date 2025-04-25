@@ -1,0 +1,47 @@
+
+body{
+
+background: linear-gradient(to right , skyblue,white);
+
+}
+.container{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 500px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 5px 5px 5px black;
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 550px;
+  background-color: rgb(237, 200, 255);
+}
+#result{
+  border: 2px solid black;
+  border-radius: 10px;
+  height: 350px;
+  width: 350px;
+  margin-left: 22px;
+  background: linear-gradient(to left, pink, white);
+
+}
+
+
+button{
+
+  border: none;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+  justify-content: space-between;
+  background-color: rgb(255, 112, 136);
+
+  
+
+}
+
+button:hover{
+
+  background-color: blueviolet;
+}
